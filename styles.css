@@ -135,6 +135,10 @@ Products
   max-width: var(--max-width);
 }
 
+.products h5{
+  padding-top: 1rem;
+}
+
 .filters-container h5 {
   font-weight: 500;
   margin: 1.5rem 0 0.5rem;
